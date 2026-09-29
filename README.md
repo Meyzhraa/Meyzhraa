@@ -1,5 +1,5 @@
 <!-- HEADER BANNER -->
-<h1 align="center">Halo, Saya [Nama Kamu] ✨👋</h1>
+<h1 align="center">Halo, Saya Maulida Azzahra ✨👋</h1>
 <p align="center">
   <b>Fresh Graduate & Aspiring Web Developer 🌸</b>
 </p>
