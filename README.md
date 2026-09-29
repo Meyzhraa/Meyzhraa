@@ -11,11 +11,11 @@
 ---
 
 ### 🌷 Tentang Saya
-- 🎓 **Status:** Fresh Graduate [Jurusan Kamu]
+- 🎓 **Status:** Fresh Graduate Teknik Informatika
 - 🔭 **Proyek Saat Ini:** Mengembangkan aplikasi **Catatan Keuangan**
 - 🌱 **Sedang Dipelajari:** Next.js & ekosistem React modern
 - 💬 **Keahlian & Pengalaman:** PHP, MySQL/XAMPP, JavaScript, dan pengembangan web dasar
-- 📫 **Email:** [email_kamu@gmail.com]
+- 📫 **Email:** mylidazzhara@gmail.com
 
 ---
 
@@ -43,8 +43,8 @@
 ### 💖 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=rose_pine&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=USERNAME_KAMU&layout=compact&theme=rose_pine&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Meyzhraa&show_icons=true&theme=rose_pine&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=Meyzhraa&layout=compact&theme=rose_pine&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
@@ -52,13 +52,13 @@
 ### 📬 Mari Terhubung
 
 <p align="left">
-  <a href="https://linkedin.com/in/USERNAME_KAMU" target="_blank">
+  <a href="https://www.linkedin.com/in/maulida-azzahra" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:email_kamu@gmail.com">
+  <a href="mailto:mylidazzhara@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/USERNAME_KAMU" target="_blank">
+  <a href="https://instagram.com/mauldzharaa" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
 </p>
